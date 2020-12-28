@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\bin\Debug\Pass.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\bin\Debug\Pass.exe
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\bin\Debug\Pass.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\obj\Debug\Pass.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\obj\Debug\Pass.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\obj\Debug\Pass.exe
+C:\Users\Rachanon\source\repos\Mydatabase\Pass\obj\Debug\Pass.pdb

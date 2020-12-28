@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\bin\Debug\PassByValue.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\bin\Debug\PassByValue.exe
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\bin\Debug\PassByValue.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\obj\Debug\PassByValue.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\obj\Debug\PassByValue.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\obj\Debug\PassByValue.exe
+C:\Users\Rachanon\source\repos\Mydatabase\PassByValue\obj\Debug\PassByValue.pdb

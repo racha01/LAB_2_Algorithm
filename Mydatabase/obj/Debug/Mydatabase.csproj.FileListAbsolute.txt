@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\bin\Debug\Mydatabase.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\obj\Debug\Mydatabase.exe
+C:\Users\Rachanon\source\repos\Mydatabase\Mydatabase\obj\Debug\Mydatabase.pdb

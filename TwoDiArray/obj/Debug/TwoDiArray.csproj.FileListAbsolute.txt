@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\bin\Debug\TwoDiArray.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\TwoDiArray\obj\Debug\TwoDiArray.pdb

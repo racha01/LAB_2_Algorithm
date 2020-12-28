@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\bin\Debug\PassByRef.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\bin\Debug\PassByRef.exe
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\bin\Debug\PassByRef.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\obj\Debug\PassByRef.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\obj\Debug\PassByRef.exe
+C:\Users\Rachanon\source\repos\Mydatabase\PassByRef\obj\Debug\PassByRef.pdb

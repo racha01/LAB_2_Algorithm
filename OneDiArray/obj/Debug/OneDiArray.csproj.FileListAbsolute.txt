@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\obj\Debug\OneDiArray.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\bin\Debug\OneDiArray.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\bin\Debug\OneDiArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\bin\Debug\OneDiArray.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\obj\Debug\OneDiArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\OneDiArray\obj\Debug\OneDiArray.pdb

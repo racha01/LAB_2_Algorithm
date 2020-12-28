@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\bin\Debug\JaggedArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\obj\Debug\JaggedArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\JaggedArray\obj\Debug\JaggedArray.pdb

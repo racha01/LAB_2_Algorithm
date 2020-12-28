@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\bin\Debug\EditTwoArray.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\bin\Debug\EditTwoArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\bin\Debug\EditTwoArray.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\obj\Debug\EditTwoArray.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\obj\Debug\EditTwoArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\EditTwoArray\obj\Debug\EditTwoArray.pdb

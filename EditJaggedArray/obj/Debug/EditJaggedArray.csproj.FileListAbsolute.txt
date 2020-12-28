@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\bin\Debug\EditJaggedArray.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\bin\Debug\EditJaggedArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\bin\Debug\EditJaggedArray.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\obj\Debug\EditJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\obj\Debug\EditJaggedArray.exe
+C:\Users\Rachanon\source\repos\Mydatabase\EditJaggedArray\obj\Debug\EditJaggedArray.pdb
